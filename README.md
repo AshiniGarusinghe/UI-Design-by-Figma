@@ -1,10 +1,9 @@
+## UI/UX DESIGNS 
+
 ## ☕ Coffee Shop UI Design
 Check out the UI/UX designs for the Coffee Shop website, featuring a sleek and user-friendly interface for browsing the menu, placing orders, and exploring different offers.
 
 👉 View the design on Figma: Coffee Shop UI on Figma
-
-
-
 
 
 ##🎬 Online Movie Ticket Booking System UI
