@@ -18,3 +18,10 @@ Check out the UI/UX designs for the Online Movie Ticket Booking System, which in
 This persona represents a key target user for the Learning Management System—focused on achieving a more efficient digital platform to manage academic tasks and improve student engagement.
 
 👉 [View the Persona on Figma: UX Persona on Figma](https://www.figma.com/design/8st4UYkZLT5GmuxVtf8sPE/Untitled?node-id=0-1&t=WAv9wktmusW8Fr1x-1)
+
+---
+
+### 🍔 Online Food Ordering System UI
+Explore the UI/UX designs for the Foody Online Food Ordering System, offering a modern, intuitive, and visually appealing interface for browsing restaurants, exploring menus, customizing orders, and making secure online payments. The design focuses on enhancing the user experience with easy navigation, clear call-to-action buttons, and vibrant food imagery.
+
+👉 [View the design on Figma: Foody Mobile App UI on Figma](https://www.figma.com/design/5VXYbduIncc2I5chToq9GC/Foody_MobileApp?node-id=0-1&t=UeWAZLVXQf6KylaS-1)
